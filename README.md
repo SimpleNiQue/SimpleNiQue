@@ -49,8 +49,7 @@ src="https://img.shields.io/github/followers/SimpleNiQue?logo=github&style=for-t
 <a href="https://www.twitter.com/SimpleNick6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;<a href="https://www.facebook.com/emmanuel.nicholas.alhassan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
 </p>
 
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="https://github.com/SimpleNiQue" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleNiQue&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
