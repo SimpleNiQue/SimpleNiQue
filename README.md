@@ -13,7 +13,7 @@ I'm skilled in HTML5, CSS3, MySQL, Python, Linux[fedora] and other technologies
 
 - 🌍  I'm based in Nigeria
 - 🌱 I’m currently learning Python(Django)
-- 👯 I’m looking to collaborate on Database Design
+- 👯 I’m looking to collaborate on Django projects, Database Design, and any other Web project(s)
 - 🤔 I’m looking to Build Free Projects from 18th June - 22nd November, 2022.
 - 💬 Ask me about RDBMS
 - ✉️  You can contact me at [simplenick01@gmail.com](mailto:simplenick01@gmail.com)
