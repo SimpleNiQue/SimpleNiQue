@@ -12,7 +12,6 @@ I'm skilled in HTML5, CSS3, MySQL, Python, Linux[fedora] and other technologies
 <br>
 
 - 🌍  I'm based in Nigeria
-- 🔭 I’m currently 
 - 🌱 I’m currently learning Python(Django)
 - 👯 I’m looking to collaborate on Database Design
 - 🤔 I’m looking to Build Free Projects from 18th June - 22nd November, 2022.
