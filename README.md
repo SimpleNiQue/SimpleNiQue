@@ -10,6 +10,8 @@ I have a flare for building applications with Python(Django) and MySQL
 
 I'm skilled in HTML5, CSS3, MySQL, Python, Linux[fedora] and other technologies
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simplenique&label=Profile%20Views&color=0e75b6&style=flat" alt="simplenique" />
+ </p>
 
 - 🌍  I'm based in Nigeria
 - 🌱 I’m currently learning Python(Django)
