@@ -19,9 +19,7 @@ I'm skilled in HTML5, CSS3, MySQL, Python, Linux[fedora] and other technologies
 - ✉️  You can contact me at [simplenick01@gmail.com](mailto:simplenick01@gmail.com)
 
 
-<a href="https://www.twitter.com/_SimpleNick" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_SimpleNick?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/SimpleNiQue" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/SimpleNiQue" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SimpleNiQue?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <br>
