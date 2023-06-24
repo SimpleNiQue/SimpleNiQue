@@ -1,7 +1,6 @@
 Hi 👋 My name is Wisdom Emmanuel
 ================================
-
-Python Developer || Life-long Learner
+Software Developer || Life-long Learner
 --------------------------------------
 
 A Solution-oriented, multi-talented Software Developer with a problem-solving mindset and an ever-learning drive.
