@@ -4,9 +4,9 @@ Hi 👋 My name is Wisdom Emmanuel
 Python Developer || Life-long Learner
 --------------------------------------
 
-A teacheable, goal-oriented, skilled junior python developer with a problem-solving mindset and an ever-learning drive.
+A Solution-oriented, multi-talented Software Developer with a problem-solving mindset and an ever-learning drive.
 
-I have a flare for building applications with Python(Django) and MySQL
+I have a flare for building applications with Python(Django), Flask, and MySQL
 
 I'm skilled in HTML5, CSS3, MySQL, Python, Linux[fedora] and other technologies
 <br>
