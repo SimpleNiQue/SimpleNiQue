@@ -1,6 +1,6 @@
 Hi 👋 My name is Wisdom Emmanuel
 ================================
-Software Developer || Life-long Learner
+Software Engineer || Life-long Learner
 --------------------------------------
 
 A Solution-oriented, multi-talented Software Developer with a problem-solving mindset and an ever-learning drive.
@@ -12,10 +12,10 @@ I'm skilled in HTML5, CSS3, MySQL, Python, Linux[fedora] and other technologies
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simplenique&label=Profile%20Views&color=0e75b6&style=flat" alt="simplenique" />
  </p>
 
-- 🌍  I'm based in Nigeria
-- 👯 I’m looking to collaborate on Django projects, Database Design, and any other Web project(s)
-- 💬 Ask me about RDBMS
+- 👯 I’m looking to collaborate on software projects, Database Design, and any life-changing adventure
+- 💬 Ask me about Databases
 - ✉️  You can contact me at [simplenick01@gmail.com](mailto:simplenick01@gmail.com)
+- I love simplicity!!
 
 
 <a href="https://www.github.com/SimpleNiQue" target="_blank" rel="noreferrer"><img
