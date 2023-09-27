@@ -1,4 +1,4 @@
-Hi 👋 My name is Wisdom Emmanuel
+Hi 👋 i am SimpleNick
 ================================
 Software Engineer || Life-long Learner
 --------------------------------------
