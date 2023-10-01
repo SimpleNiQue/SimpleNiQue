@@ -5,15 +5,15 @@ Software Engineer || Life-long Learner
 
 A Solution-oriented, multi-talented Software Engineer with a problem-solving mindset and an ever-learning drive.
 
-I have a flare for building applications with Python(Django), Flask, and MySQL
+I have a flare for building applications with Python(Django, FastAPI)
 
-I'm skilled in HTML5, CSS3, MySQL, Python, Linux[fedora] and other technologies
+I'm skilled in Python, Linux, SQL HTML5, CSS3, and other technologies
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simplenique&label=Profile%20Views&color=0e75b6&style=flat" alt="simplenique" />
  </p>
 
 - 👯 I’m looking to collaborate on software projects, Database Design, and any life-changing adventure
-- 💬 Ask me about Databases
+- 💬 Ask me about Software Design
 - ✉️  You can contact me at [simplenick01@gmail.com](mailto:simplenick01@gmail.com)
 - I love simplicity!!
 
