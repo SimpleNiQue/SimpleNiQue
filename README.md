@@ -12,7 +12,7 @@ I'm skilled in Python, Linux, SQL HTML5, CSS3, and other technologies
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simplenique&label=Profile%20Views&color=0e75b6&style=flat" alt="simplenique" />
  </p>
 
-- 👯 I’m looking to collaborate on software projects, Database Design, and any life-changing adventure
+- 👯 I’m learning and building applications with Golang 
 - 💬 Ask me about Software Design
 - ✉️  You can contact me at [simplenick01@gmail.com](mailto:simplenick01@gmail.com)
 - I love simplicity!!
