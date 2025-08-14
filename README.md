@@ -3,17 +3,17 @@ Hi 👋 i am SimpleNick
 Software Engineer || Life-long Learner
 --------------------------------------
 
-A Solution-oriented, multi-talented Software Engineer with a problem-solving mindset and an ever-learning drive.
+A solution-oriented, multi-talented Software Engineer with a problem-solving mindset and an ever-learning drive.
 
-I have a flare for building applications with Python(Django, FastAPI)
+I have a flare for building applications with Python(Django, FastAPI) and Golang
 
-I'm skilled in Python, Linux, SQL HTML5, CSS3, and other technologies
+I'm skilled in Python, Golang, Linux, SQL HTML5, CSS3, and other technologies
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simplenique&label=Profile%20Views&color=0e75b6&style=flat" alt="simplenique" />
  </p>
 
-- 👯 I’m learning and building applications with Golang 
-- 💬 Ask me about Software Design
+- 👯 I’m currently learning and building applications with Golang 
+- 💬 Ask me about Software Design and Clean Code
 - ✉️  You can contact me at [simplenick01@gmail.com](mailto:simplenick01@gmail.com)
 - I love simplicity!!
 
